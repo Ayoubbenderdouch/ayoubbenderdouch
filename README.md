@@ -1,25 +1,2 @@
-## Hi there 👋
+## Hi Everyone 👋 , i'm Ayoub Benderdouch ®™
 
-<!--# Ayoub Benderdouch
-
-![Swift Logo](https://swift.org/assets/images/swift.svg)
-![SwiftUI Logo](https://developer.apple.com/assets/elements/icons/swiftui/swiftui_2x.png)
-![Swift Data Logo](https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata_2x.png)
-
-## iOS Mobile App Developer
-
-Welcome to my GitHub profile!
-
-**Ayoubbenderdouch/ayoubbenderdouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
