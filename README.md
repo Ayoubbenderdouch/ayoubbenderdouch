@@ -1,4 +1,3 @@
 ## Hi Everyone 👋 , i'm Ayoub Benderdouch 
 
-![My GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif
